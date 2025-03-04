@@ -1,0 +1,15 @@
+{
+  "name": "forgetestingwebappgui-3",
+  "version": "1.0.0",
+  "description": "First used to show the input and output from a potentionmeter on a web app, then will take in input from the web app and the ardiuno will respond accordingly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
